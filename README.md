@@ -1,2 +1,5 @@
 # matlab-sublime-snippets
-Collection of snippets for MATLAB coding in Sublime Text 3
+
+Snippets for MATLAB coding in Sublime Text 2/3. Many of these were adapted from (or directly taken from) the GitHub repository [matlab-snipp](https://github.com/AGS-Knight/matlab-snipp). 
+
+
